@@ -115,3 +115,6 @@ idea/
 # Pyre type checker
 .pyre/
 
+# Output Files
+btcusd_data.csv
+2012-2021.csv
