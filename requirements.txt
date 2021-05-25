@@ -1,4 +1,5 @@
-numpy
 python-binance
-TA-Lib
-websocket-client
+TA-lib
+numpy
+backtrader
+flask
